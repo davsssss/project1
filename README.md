@@ -1,4 +1,4 @@
-# Group1 Project 1
+# Group 1 Project 1
 
 David: Compared popularity between fast food and dine in restaurants with Yelp Fusion API and yFinance. I categorized each restaurant by fast food or dine in prior to making comparisons. I found the average Yelp rating for each popular chain restaurant along with the annual revenue for the year 2022. For the yelp ratings, fast food restaurants scored lower than dine in restaurants. When it came to the annual sales, fast food restaurants did significantly better than dine in restaurants. Since fast food is gets lower ratings but still does better on annual sales, I decided to test for a correlation. The correlation between annual revenue and yelp reviews which returned a correlation coefficient of -0.54 signifying negative correlation. This shows that customers favor convenience over quality.
 
