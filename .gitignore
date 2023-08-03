@@ -158,3 +158,8 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+getdata/yfinance/finance.ipynb
+getdata/yelp/output_data/fast_food_ratings.csv
+getdata/yelp/output_data/clean_yelp.csv
+getdata/yelp/yelp.ipynb
+getdata/config.py
